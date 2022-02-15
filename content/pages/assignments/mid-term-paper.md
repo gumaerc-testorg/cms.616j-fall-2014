@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 16c9e7c0-7311-076c-5e71-a29e08b6ae45
 title: Mid-term Paper
 uid: c8104c15-d8f3-b08f-f266-9131bda05a8a
