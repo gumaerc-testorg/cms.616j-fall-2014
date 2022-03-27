@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 16c9e7c0-7311-076c-5e71-a29e08b6ae45
 resourcetype: Document
 title: Photos group work guidelines
 uid: d10a5dbe-4410-288f-31f8-8325b1e93ecf
