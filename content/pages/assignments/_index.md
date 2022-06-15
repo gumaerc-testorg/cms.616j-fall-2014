@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides guidelines for the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,14 +18,14 @@ In-class Group Work
 
 In-class group work counts towards class participation, which is 20% of your final grade. Below is an example of an exercise from Session 3, which focuses on Embodiment & Materiality:
 
-[Photos Group Work Guidelines (PDF)]({{< baseurl >}}/resources/mitcms_616jf14_workguide)
+{{% resource_link d10a5dbe-4410-288f-31f8-8325b1e93ecf "Photos Group Work Guidelines (PDF)" %}}
 
 Mid-term Paper
 --------------
 
-[Guidelines]({{< baseurl >}}/pages/assignments/mid-term-paper) (due Session 6)
+{{% resource_link c8104c15-d8f3-b08f-f266-9131bda05a8a "Guidelines" %}} (due Session 6)
 
 Final Paper
 -----------
 
-[Guidelines]({{< baseurl >}}/pages/assignments/final-paper) (due last Session)
+{{% resource_link 72beac07-2bf3-9033-abb6-95c175713ed0 "Guidelines" %}} (due last Session)

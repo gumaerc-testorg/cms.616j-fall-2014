@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and instructions for the mid-term paper
+  required for the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
