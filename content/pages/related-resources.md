@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a list of supplemental reference materials for
+  the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 9dc3c7e0-4c78-f561-387e-60fd53c4c73e
 ---
