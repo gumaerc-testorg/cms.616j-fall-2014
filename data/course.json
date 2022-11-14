@@ -45,6 +45,7 @@
   "course_title": "Games and Culture",
   "course_description": "This course examines the social, cultural, economic, and political aspects of digital games. Topics include the socio-technical aspects of digital gaming, embodiment and space, communities, spectatorship and performance, gender, race, sexuality, e-sports and sports games, and the politics and economics of production processes, including co-creation and intellectual property.\n",
   "department_numbers": [
+    "CMS-W",
     "WGS"
   ],
   "extra_course_numbers": "21W.768,WGS.125,CMS.868",
@@ -57,6 +58,7 @@
     "Activity Assignments",
     "Written Assignments"
   ],
-  "site_uid": "31ceb6d4-a257-4a60-a561-293a1937caff",
+  "site_uid": "4f9a4c1d-a5ef-489f-b7bf-f23d6ff0e75a",
+  "short_id": "cms.616j-fall-2014",
   "title": "Course Metadata"
 }
