@@ -8,9 +8,8 @@ file_size: 4591
 file_type: image/jpeg
 image_metadata:
   caption: "Spectating has become an important part of game culture, with audiences\
-    \ watching competitions both online and offline.\_(Image courtesy of {{% resource_link\
-    \ \"da9c1348-e101-4946-86fd-254524afb90f\" \"Trevor Dykstra\" %}} on flickr. License\
-    \ CC-BY-NC-SA.)"
+    \ watching competitions both online and offline.\_(Image courtesy of [Trevor Dykstra](https://flic.kr/p/x8kNb3)\
+    \ on flickr. License CC-BY-NC-SA.)"
   credit: Image courtesy of Trevor Dykstra on flickr. License CC-BY-NC-SA.
   image-alt: Gamers playing a video game at PAX 2015 while spectators watch.
 learning_resource_types: []
